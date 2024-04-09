@@ -2,3 +2,5 @@ listings.csv
 password.txt
 secretpassword.txt
 
+# MAC OS
+.DS_Store
