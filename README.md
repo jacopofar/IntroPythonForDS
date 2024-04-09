@@ -16,6 +16,9 @@ here it is
 # new change
 blablabla
 
+# Intro auf Deutsch
+Diese Repo ist über der Inhalt des original Lektion
+
 ## Intro in italian
 Questo repository contiene il materiale originale del corso di Python per DSR, ora esperimenti su git.
 ## Intro in Cherokee
