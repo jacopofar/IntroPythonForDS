@@ -1,6 +1,9 @@
-# Intro to Python For Data Science
+# Intro to git For Data Science
 
-This repo is used as a test target fr the DSR course on git 
+This repo is used as a test target for the DSR course on git.
+
+The original content was material for Python, hence the name, nowadays it acts as a practice target and the
+Python files are vestigial.
 
 ## Intro in English
 This big repo contains the teaching material for the Introduction to Python (and useful libraries) masterclass at the [Data Science Retreat](http://datascienceretreat.com/), it does not cover Pandas.
